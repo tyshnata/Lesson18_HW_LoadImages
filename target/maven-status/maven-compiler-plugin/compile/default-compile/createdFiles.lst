@@ -1,0 +1,8 @@
+main\java\com\downloadServis\Download.class
+main\java\com\userUtil\FileUtil.class
+main\java\com\downloadServis\CallableImageLoader.class
+main\java\com\downloadServis\EmptyURLException.class
+main\java\com\logicService\LogicDownload.class
+main\java\com\app\App.class
+main\java\com\userUtil\PrintInfoForUser.class
+main\java\com\userUtil\UserActions.class
